@@ -1,0 +1,12 @@
+---
+title: "quarto-analysis_SCIF3000"
+format: html
+editor: visual
+---
+
+## SCIF3000 Week 5 - R Studio Skills Lab
+
+```{r}
+read.csv("../1.Datasets/msft.csv")
+```
+
